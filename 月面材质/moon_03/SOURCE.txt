@@ -1,0 +1,4 @@
+Source: https://polyhaven.com/a/moon_03
+License: CC0 https://polyhaven.com/license
+Resolution: 2K
+Simulated lunar material captured in a terrestrial lab, not measured lunar terrain.
