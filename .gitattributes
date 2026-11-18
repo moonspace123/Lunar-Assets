@@ -1,0 +1,4 @@
+*.png binary
+*.jpg binary
+*.tif binary
+*.txt -text
